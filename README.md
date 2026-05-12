@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**lordnawaz/lordnawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lordnawaz/lordnawaz** is a ✨ About me section ✨
+I am Nawaz, trying to see what I can do in this vast world of Information &Technology.
+Currently I am working in field of Data Science, I know basic python libraries and Maths.  
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: ML models 
+- 🌱 I’m currently learning: Data Science and ML 
+- 👯 I’m looking to collaborate on: Data science related projects  
+- 🤔 I’m looking for help with : Kaggle competitions 
+- 💬 Ask me about: Anything you want 
+- 📫 How to reach me: [linkdin](https://www.linkedin.com/in/nawaz-ansari-943134291/)
+- 😄 Pronouns: he/him/yours
+- ⚡ Fun fact: Sarcasm is my seond language 
 -->
