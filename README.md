@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-**lordnawaz/lordnawaz** is a ✨ About me section ✨
+###         ✨ About me section ✨
 I am Nawaz, trying to see what I can do in this vast world of Information &Technology.
 Currently I am working in field of Data Science, I know basic python libraries and Maths.  
 
