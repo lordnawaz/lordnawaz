@@ -1,6 +1,6 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
+
 **lordnawaz/lordnawaz** is a ✨ About me section ✨
 I am Nawaz, trying to see what I can do in this vast world of Information &Technology.
 Currently I am working in field of Data Science, I know basic python libraries and Maths.  
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/nawaz-ansari-943134291/)
 - 😄 Pronouns: he/him/yours
 - ⚡ Fun fact: Sarcasm is my seond language 
--->
