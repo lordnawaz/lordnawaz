@@ -7,7 +7,7 @@ Currently I am working in field of Data Science, I know basic python libraries a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: ML models 
+- 🔭 I’m currently working on: Understanding ML basics  
 - 🌱 I’m currently learning: Data Science and ML 
 - 👯 I’m looking to collaborate on: Data science related projects  
 - 🤔 I’m looking for help with : Kaggle competitions 
